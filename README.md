@@ -1,6 +1,6 @@
 # Olá, eu sou o Daniel Pereira Rodrigues de Lima! 👋
 
-Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Mauá**, com foco em resolver problemas através do código e criar soluções eficientes. Tenho forte interesse em arquitetura de software (como o modelo C4) e na construção de projetos práticos, como a criação e integração de dashboards de dados.
+Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Mauá**, com foco em resolver problemas através do código e criar soluções eficientes. Tenho forte interesse em arquitetura de software e na construção de projetos práticos, como a criação e integração de dashboards de dados.
 
 Atualmente, busco oportunidades de **Estágio** ou posição **Júnior** como Desenvolvedor Web (Front-end, Back-end ou Full-stack).
 
