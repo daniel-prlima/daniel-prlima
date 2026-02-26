@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Daniel Pereira Rodrigues de Lima! 👋
 
-<!--
-**daniel-prlima/daniel-prlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Mauá**, com foco em resolver problemas através do código e criar soluções eficientes. Tenho forte interesse em arquitetura de software (como o modelo C4) e na construção de projetos práticos, como a criação e integração de dashboards de dados.
 
-Here are some ideas to get you started:
+Atualmente, busco oportunidades de **Estágio** ou posição **Júnior** como Desenvolvedor Web (Front-end, Back-end ou Full-stack).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+* 🎓 Cursando Desenvolvimento de Software Multiplataforma (Fatec Mauá).
+* 💻 Focado em aprimorar conhecimentos em desenvolvimento web e arquitetura de sistemas.
+* ⚙️ Buscando minha primeira oportunidade para atuar profissionalmente com desenvolvimento.
+
+## 🛠️ Tecnologias e Ferramentas
+
+**Linguagens & Web:**
+* Java | JavaScript | Node.js | Python | C | C++ | HTML | CSS
+
+**IDEs & Ecossistema:**
+* VS Code | Visual Studio | Eclipse | IntelliJ IDEA | Android Studio
+
+## 📫 Como me encontrar
+* **LinkedIn:** [Seu LinkedIn Aqui](https://www.linkedin.com/in/seu-perfil)
+* **E-mail:** [Seu E-mail Aqui](mailto:seu-email@email.com)
