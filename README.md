@@ -1,22 +1,43 @@
-# Olá, eu sou o Daniel Pereira Rodrigues de Lima! 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=header"/>
 
-Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Mauá**, com foco em resolver problemas através do código e criar soluções eficientes. Tenho forte interesse em arquitetura de software e na construção de projetos práticos, como a criação e integração de dashboards de dados.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=550&lines=Olá,+eu+sou+o+Daniel!;Estudante+de+Software+Multiplataforma;Buscando+oportunidades+como+Dev!" alt="Typing SVG" />
+  </a>
+</div>
 
-Atualmente, busco oportunidades de **Estágio** ou posição **Júnior** como Desenvolvedor Web (Front-end, Back-end ou Full-stack).
-
-## 🚀 Sobre mim
-* 🎓 Cursando Desenvolvimento de Software Multiplataforma (Fatec Mauá).
-* 💻 Focado em aprimorar conhecimentos em desenvolvimento web e arquitetura de sistemas.
-* ⚙️ Buscando minha primeira oportunidade para atuar profissionalmente com desenvolvimento.
+## 👨‍💻 Sobre mim
+- 🎓 A frequentar o curso de **Desenvolvimento de Software Multiplataforma** na **Fatec Mauá**.
+- 🚀 À procura da minha primeira oportunidade (Estágio ou Júnior) como Desenvolvedor Web (Front-end, Back-end ou Full-stack).
+- 💡 Focado em aprimorar conhecimentos em desenvolvimento web, arquitetura de sistemas e em construir projetos que resolvam problemas reais.
 
 ## 🛠️ Tecnologias e Ferramentas
 
-**Linguagens & Web:**
-* Java | JavaScript | Node.js | Python | C | C++ | HTML | CSS
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,c,cpp,nodejs" /><br><br>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,androidstudio" />
+</div>
 
-**IDEs & Ecossistema:**
-* VS Code | Visual Studio | Eclipse | IntelliJ IDEA | Android Studio
+<br/>
 
-## 📫 Como me encontrar
-* **LinkedIn:** [Seu LinkedIn Aqui](https://www.linkedin.com/in/seu-perfil)
-* **E-mail:** [Seu E-mail Aqui](mailto:seu-email@email.com)
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=dracula" height="150" alt="Linguagens mais usadas"/>
+</div>
+
+<br/>
+
+## 📫 Onde me encontrar
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/SEU-PERFIL">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SEU-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer"/>
