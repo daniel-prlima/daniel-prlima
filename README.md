@@ -1,9 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=header"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=550&lines=Olá,+eu+sou+o+Daniel!;Estudante+de+Software+Multiplataforma;Buscando+oportunidades+como+Dev!" alt="Typing SVG" />
-  </a>
+
+  [![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FF818100&vCenter=true&random=false&width=435&lines=%E2%99%A6+Hiago+Gabriel+%E2%99%A6+;%E2%99%A6+Fullstack+Developer+%E2%99%A6+](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=550&lines=Olá,+eu+sou+o+Daniel!;Estudante+de+Software+Multiplataforma;Buscando+oportunidades+como+Dev!))](https://git.io/typing-svg)
 </div>
 
 ## 👨‍💻 Sobre mim
@@ -23,8 +22,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=dracula" height="150" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel-prlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-prlima&layout=compact&langs_count=7&theme=dracula" height="150" alt="Linguagens mais usadas"/>
 </div>
 
 <br/>
