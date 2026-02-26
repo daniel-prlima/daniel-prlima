@@ -1,9 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=header"/>
 
-<div align="center">
+[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FF818100&vCenter=true&random=false&width=435&lines=%E2%99%A6+Hiago+Gabriel+%E2%99%A6+;%E2%99%A6+Fullstack+Developer+%E2%99%A6+](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=550&lines=Olá,+eu+sou+o+Daniel!;Estudante+de+Software+Multiplataforma;Buscando+oportunidades+como+Dev!))](https://git.io/typing-svg)
 
-  [![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FF818100&vCenter=true&random=false&width=435&lines=%E2%99%A6+Hiago+Gabriel+%E2%99%A6+;%E2%99%A6+Fullstack+Developer+%E2%99%A6+](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=550&lines=Olá,+eu+sou+o+Daniel!;Estudante+de+Software+Multiplataforma;Buscando+oportunidades+como+Dev!))](https://git.io/typing-svg)
-</div>
 
 ## 👨‍💻 Sobre mim
 - 🎓 A frequentar o curso de **Desenvolvimento de Software Multiplataforma** na **Fatec Mauá**.
