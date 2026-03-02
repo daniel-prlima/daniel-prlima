@@ -23,8 +23,10 @@
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daniel-prlima&theme=black-ice&hide_border=true&border_radius=50&locale=pt&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=daniel-prlima&theme=black-ice&hide_border=true&locale=pt" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-prlima&layout=compact&langs_count=7&theme=dracula" height="150" alt="Linguagens mais usadas"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/daniel-prlima/daniel-prlima/main/profile-summary-card-output/dracula/1-repos-per-language.svg" width="400px"/>
 </div>
 
 <br/>
