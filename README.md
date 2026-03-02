@@ -23,7 +23,7 @@
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=daniel-prlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel-prlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-prlima&layout=compact&langs_count=7&theme=dracula" height="150" alt="Linguagens mais usadas"/>
 </div>
 
