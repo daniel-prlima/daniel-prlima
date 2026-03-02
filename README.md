@@ -24,9 +24,9 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=daniel-prlima&theme=black-ice&hide_border=true&locale=pt" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-prlima&layout=compact&langs_count=7&theme=dracula" height="150" alt="Linguagens mais usadas"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-prlima&layout=compact&langs_count=7&theme=dracula" height="150" alt="Linguagens mais usadas"/>
   <br><br>
-  <img src="https://raw.githubusercontent.com/daniel-prlima/daniel-prlima/main/profile-summary-card-output/dracula/1-repos-per-language.svg" width="400px"/>
+  <img src="https://raw.githubusercontent.com/daniel-prlima/daniel-prlima/main/profile-summary-card-output/dracula/1-repos-per-language.svg" width="400px"/> -->
 </div>
 
 <br/>
